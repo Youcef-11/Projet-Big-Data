@@ -22,8 +22,9 @@ cd Projet-Big-Data
 ```
 
 ## MCD 'Modèle Conceptuel des Données'
-<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/MCD.png?raw=true><img width="50%" src="./results/MCD.jpg" /></a></p>
-
+<p>
+    <img src="results/MCD.jpg" width="220" height="240" />
+</p>
 ## MLD 'Modèle Logique des Données'
 <p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/MLD.png?raw=true><img width="50%" src="./results/MLD.jpg" /></a></p>
 
