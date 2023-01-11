@@ -22,14 +22,14 @@ cd Projet-Big-Data
 ```
 
 ## MCD 'Modèle Conceptuel des Données'
-<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/MCD.png?raw=true><img width="100%" src="./results/MCD.jpg" /></a></p>
+<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/MCD.png?raw=true><img width="50%" src="./results/MCD.jpg" /></a></p>
 
 ## MLD 'Modèle Logique des Données'
-<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/MLD.png?raw=true><img width="100%" src="./results/MLD.jpg" /></a></p>
+<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/MLD.png?raw=true><img width="50%" src="./results/MLD.jpg" /></a></p>
 
 ## Data viz example
 ## MCD 'Modèle Conceptuel des Données'
-<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/Viz.png?raw=true><img width="100%" src="./results/Viz.jpg" /></a></p>
+<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/Viz.png?raw=true><img width="50%" src="./results/Viz.jpg" /></a></p>
 
 ## Description du contenu du dossier
 
