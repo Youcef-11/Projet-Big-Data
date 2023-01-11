@@ -21,12 +21,21 @@ git clone https://github.com/Youcef-11/Projet-Big-Data.git
 cd Projet-Big-Data
 ```
 
-## Data viz example
+## MCD 'Modèle Conceptuel des Données'
+<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/MCD.png?raw=true><img width="100%" src="./results/MCD.jpg" /></a></p>
 
+## MLD 'Modèle Logique des Données'
+<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/MLD.png?raw=true><img width="100%" src="./results/MLD.jpg" /></a></p>
+
+## Data viz example
+## MCD 'Modèle Conceptuel des Données'
+<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/Viz.png?raw=true><img width="100%" src="./results/Viz.jpg" /></a></p>
 
 ## Description du contenu du dossier
+
+- Il faut récupérer les datas depuis 
+```https://www.data.gouv.fr/fr/datasets/statistiques-nationales-du-commerce-exterieur/
 ```
-- Il faut récupérer les datas depuis https://www.data.gouv.fr/fr/datasets/statistiques-nationales-du-commerce-exterieur/
 - Il faut organiser les fichiers comme suit :
 - 2 dossiers 'National-2019-export', 'National-2019-import'
 	récupérés sur data.gouv
@@ -43,4 +52,4 @@ cd Projet-Big-Data
 	la table pays
 - 'rapport_projet_big_data_CHORFI_GILLES.pdf'
 - 'texte_zone_eco.txt' : nous a servi à créer la table zone-éconimique
-```
+
