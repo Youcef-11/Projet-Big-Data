@@ -20,6 +20,8 @@ Simply clone the repository:
 git clone https://github.com/Youcef-11/Projet-Big-Data.git
 cd Projet-Big-Data
 ```
+## Dashboard
+<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/dashboard.png?raw=true><img width="100%" src="./results/dashboard.png" /></a></p>
 
 ## MCD 'Modèle Conceptuel des Données'
 <p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/MCD.jpg?raw=true><img width="100%" src="./results/MLD.jpg" /></a></p>
