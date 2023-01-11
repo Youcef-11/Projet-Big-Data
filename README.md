@@ -22,20 +22,19 @@ cd Projet-Big-Data
 ```
 
 ## MCD 'Modèle Conceptuel des Données'
-<p>
-    <img src="results/MCD.jpg" width="220" height="240" />
-</p>
+<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/MCD.jpg?raw=true><img width="100%" src="./results/MLD.jpg" /></a></p>
 ## MLD 'Modèle Logique des Données'
-<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/MLD.png?raw=true><img width="50%" src="./results/MLD.jpg" /></a></p>
+<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/MLD.jpg?raw=true><img width="100%" src="./results/MLD.jpg" /></a></p>
 
 ## Data viz example
 ## MCD 'Modèle Conceptuel des Données'
-<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/Viz.png?raw=true><img width="50%" src="./results/Viz.jpg" /></a></p>
+<p align="center"><a href=https://github.com/Youcef-11/Projet-Big-Data/blob/master/results/Viz.jpg?raw=true><img width="100%" src="./results/Viz.jpg" /></a></p>
 
 ## Description du contenu du dossier
 
 - Il faut récupérer les datas depuis 
-```https://www.data.gouv.fr/fr/datasets/statistiques-nationales-du-commerce-exterieur/
+```
+https://www.data.gouv.fr/fr/datasets/statistiques-nationales-du-commerce-exterieur/
 ```
 - Il faut organiser les fichiers comme suit :
 - 2 dossiers 'National-2019-export', 'National-2019-import'
